@@ -1,5 +1,5 @@
 import './App.css';
-import Roulette from "./testing/Roulette";
+import Roulette from "./Roulette";
 
 const App = () => {
     return (
